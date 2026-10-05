@@ -1,0 +1,6 @@
+job_id,submission_time,deadline,duration_hours,default_region,baseline_start,baseline_region,baseline_emissions_g,scheduled_start,scheduled_region,scheduled_emissions_g,status,emissions_saved_pct,added_delay_hours
+job-001,2026-08-01 06:00:00,2026-08-01 22:00:00,4.0,IN-WE,2026-08-01 06:00:00,IN-WE,2983.4399999999996,2026-08-01 13:00:00,IN-WE,2627.4,scheduled,11.93,7.0
+job-002,2026-08-01 08:00:00,2026-08-02 08:00:00,6.0,FR,2026-08-01 08:00:00,FR,3656.750000000001,2026-08-01 23:00:00,FR,1518.75,scheduled,58.47,15.0
+job-003,2026-08-01 09:30:00,2026-08-01 18:00:00,3.0,GB,2026-08-01 09:30:00,GB,868.6400000000002,2026-08-01 09:30:00,GB,868.6400000000002,scheduled,0.0,0.0
+job-004,2026-08-01 00:00:00,2026-08-02 12:00:00,10.0,IN-WE,2026-08-01 00:00:00,IN-WE,19612.2,2026-08-01 09:00:00,IN-WE,17011.8,scheduled,13.26,9.0
+job-005,2026-08-01 14:00:00,2026-08-01 20:00:00,2.0,FR,2026-08-01 14:00:00,FR,759.75,2026-08-01 18:00:00,FR,586.05,scheduled,22.86,4.0

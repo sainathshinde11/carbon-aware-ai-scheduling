@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.zip
+.env
+.venv/
+electricitymaps_*.xlsx
+data/raw_pull/
+data/electricitymaps_full_dataset.xlsx

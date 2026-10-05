@@ -1,0 +1,9 @@
+{
+  "model": "MLPClassifier (256,128,64), digits dataset",
+  "test_accuracy": 0.9778,
+  "duration_seconds": 5.67,
+  "energy_consumed_kwh": 9.66e-06,
+  "emissions_kg_co2eq_local_grid": 6.89e-06,
+  "average_power_kw": 0.006139,
+  "note": "Reproduced independently on student's own machine (Windows), superseding the original sandbox measurement of 0.011 kW. Difference is expected and due to CodeCarbon's CPU-model-dependent fallback constants."
+}

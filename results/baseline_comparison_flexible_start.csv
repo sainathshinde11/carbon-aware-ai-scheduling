@@ -1,0 +1,5 @@
+config,n_valid_trials,flex_mean_saved_pct,flex_mean_delay_h,full_mean_saved_pct,full_mean_delay_h,mean_improvement_over_flex_pct
+"short (2h duration, 8h window)",100,17.67,2.25,21.08,3.21,4.8
+"medium (4h duration, 16h window)",100,13.68,2.19,29.63,6.92,18.54
+"long (6h duration, 24h window)",100,11.89,2.13,32.86,9.61,23.89
+"very long (10h duration, 36h window)",100,9.78,1.83,32.41,12.04,25.18

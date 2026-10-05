@@ -1,0 +1,23 @@
+# Configuration for the Carbon-Aware AI Model Scheduling framework
+
+electricity_maps:
+  api_key: ""              # leave blank to skip live API calls and use sample CSV data
+  base_url: "https://api.electricitymap.org/v3"
+
+uk_neso:
+  base_url: "https://api.carbonintensity.org.uk"
+
+regions:
+  - IN-WE   # Western India
+  - IN-SO   # Southern India
+  - IN-NO   # Northern India
+  - IN-EA   # Eastern India
+  - GB      # Great Britain
+  - DE      # Germany
+  - FR      # France
+  - US-CAL-CISO  # California
+
+scheduling:
+  allow_spatial_relocation: false   # true = also search across regions, not just time
+  forecast_horizon_hours: 24        # how far ahead the scheduler is allowed to look
+  time_step_minutes: 60             # granularity of candidate start times

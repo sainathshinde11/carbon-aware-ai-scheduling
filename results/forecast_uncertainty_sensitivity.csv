@@ -1,0 +1,5 @@
+config,n_trials,forecast_based_mean_saved_pct,oracle_mean_saved_pct,mean_forecast_uncertainty_cost_pct
+"short (2h duration, 8h window)",100,15.0,20.63,7.04
+"medium (4h duration, 16h window)",100,25.94,30.91,8.01
+"long (6h duration, 24h window)",100,28.48,32.26,6.39
+"very long (10h duration, 36h window)",100,28.46,35.13,11.07
